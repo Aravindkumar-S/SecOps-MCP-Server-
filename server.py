@@ -67,4 +67,3 @@ def audit_system_security(input_data: AuditInput) -> str:
 
 if __name__ == "__main__":
     mcp.run(transport='stdio')
-```[cite: 1]
