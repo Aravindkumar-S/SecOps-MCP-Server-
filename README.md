@@ -13,7 +13,7 @@ An enterprise-ready **Model Context Protocol (MCP)** server built in Python desi
 
 ### Prerequisites
 
-* Python 3.10+[cite: 1]
+* Python 3.10+
 * FastMCP SDK (`pip install mcp`)[cite: 1]
 
 ### Local Testing
