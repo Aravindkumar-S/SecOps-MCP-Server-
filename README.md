@@ -34,5 +34,3 @@ Add the following to your local config layer[cite: 1]:
     }
   }
 }
-```[cite: 1]
-```[cite: 1]
