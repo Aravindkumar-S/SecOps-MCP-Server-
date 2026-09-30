@@ -20,7 +20,6 @@ An enterprise-ready **Model Context Protocol (MCP)** server built in Python desi
 
 ```bash
 python server.py
-```[cite: 1]
 
 ### Configuration for MCP Clients (Cursor / Claude)
 
